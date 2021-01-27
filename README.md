@@ -76,7 +76,7 @@ secrets directory where we will create AWS-secrets_manager secrets to store db c
 # Reference: 
 [1] https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_UpgradeDBInstance.Maintenance.html
 [2] https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
-[2] https://www.terraform.io/downloads.html
+[3] https://www.terraform.io/downloads.html
 
 
 #### to build the infrastruture run the terraform init, plan and apply in environment directories like development & production
